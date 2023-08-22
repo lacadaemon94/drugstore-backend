@@ -154,13 +154,13 @@ En el centro del modelo se encuentra la tabla "producto", que tiene relaciones c
 
 ## Tabla de Contenidos
 
-- [CREAR_PRODUCTO](#CREAR_PRODUCTO)
-- [EDITAR_PRODUCTO](#EDITAR_PRODUCTO)
-- [BORRAR_PRODUCTO](#BORRAR_PRODUCTO)
-- [LISTAR_PRODUCTOS](#LISTAR_PRODUCTOS)
-- [AGREGAR_PRODUCTO_BODEGA](#AGREGAR_PRODUCTO_BODEGA)
-- [TRANSFERIR_PRODUCTO_INVENTARIO](#TRANSFERIR_PRODUCTO_INVENTARIO)
-- [LISTAR_INVENTARIO](#LISTAR_INVENTARIO)
+- [CREAR_PRODUCTO]
+- [EDITAR_PRODUCTO]
+- [BORRAR_PRODUCTO]
+- [LISTAR_PRODUCTOS]
+- [AGREGAR_PRODUCTO_BODEGA]
+- [TRANSFERIR_PRODUCTO_INVENTARIO]
+- [LISTAR_INVENTARIO]
 
 ---
 
@@ -326,6 +326,6 @@ En el centro del modelo se encuentra la tabla "producto", que tiene relaciones c
 
 ---
 ## Notas
-- Opte por no crear endpoints y la logica `CRUD` de envase e inventarios por tiempo y por que no se solicitaban en el problema.
+- Opte por no crear endpoints y la logica `CRUD` de envase e ingredientes por tiempo y por que no se solicitaban en el problema.
 - Hay un problema con el formato de fechas que por cuestiones de tiempo no depure y provoca transferencias erroneas en el frontend.
 - Opte por listar todo el inventario y luego ocupar el objeto en el frontend para propositos de filtracion.

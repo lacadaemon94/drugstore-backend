@@ -145,8 +145,6 @@ En el centro del modelo se encuentra la tabla "producto", que tiene relaciones c
    - Se verifica si ya existe una entrada con el mismo `producto_id_id`, `expiracion`, y `destino tipo_id_id`.
      - Si existe, se agrega la `cantidad`.
      - Si no existe, se inserta una nueva entrada.
-    
-     Certainly! Here's a markdown template for documenting API endpoints with JSON structures for requests and responses:
 
 ---
 

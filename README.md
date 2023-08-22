@@ -20,6 +20,7 @@ docker-compose build
 docker-compose up
 ```
 La aplicacion deberia de ser accesible en el puerto :8080
+
 4. Accesar a la terminal de la App de Symfony.
 ```bash
 docker exec -it symfony_app bash

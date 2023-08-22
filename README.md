@@ -5,7 +5,8 @@
 -Composer para la gestión de dependencias de PHP.
 
 ## Configuración
-1. Clonar el Repositorio:
+=====
+1.Clonar el Repositorio:
 ```bash
 git clone https://github.com/lacadaemon94/drugstore-backend.git
 cd drugstore-backend

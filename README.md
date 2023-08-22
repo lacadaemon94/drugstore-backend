@@ -9,7 +9,7 @@
 ```bash
 git clone https://github.com/lacadaemon94/drugstore-backend.git
 cd drugstore-backend
-Instalar Dependencias de PHP:
+composer install
 ```
 2. Construir el docker
 ```bash
